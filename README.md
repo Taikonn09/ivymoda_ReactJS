@@ -1,2 +1,2 @@
 # ivymoda_ReactJS
-A ReactJS by Taikonn
+A ReactJS project by Taikonn
